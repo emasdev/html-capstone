@@ -4,7 +4,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-This project was made escencially using bootstrap, but there are also some parts with plain CSS for demonstrate same behaviors as bootstrap offers but using just flex and grid.
+This project was made essentially using bootstrap, but there are also some parts with plain CSS to demonstrate the same behaviors as bootstrap offers but using just flex and grid.
 
 ## Built With
 
@@ -13,7 +13,7 @@ This project was made escencially using bootstrap, but there are also some parts
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/emasdev/html-capstone/afb8ea84e50c3a135733f6c192473e816fadab57/index.html)
 
 👤 **Emanuel González**
 
