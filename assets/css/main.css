@@ -349,10 +349,63 @@ footer {
 
 .grid-header {
   background-color: #f5f5f5;
+  font-weight: bold;
 }
 
 .lunch {
   padding: 50px 10%;
+}
+
+.tickets-grid span {
+  color: var(--color-orange);
+  padding: 10px 0;
+  font-size: 1.1rem;
+}
+
+.tickets-grid input {
+  margin-bottom: 15px;
+}
+
+.table-header {
+  text-align: center;
+  color: var(--color-black);
+  background-color: #f5f5f5;
+  border: 1px solid #e4e4e4;
+  font-weight: bold;
+}
+
+.menu-table {
+  border: 1px solid #e4e4e4;
+  margin: 7%;
+  -webkit-box-shadow: 3px 6px 24px 0px rgba(0, 0, 0, 0.52);
+  -moz-box-shadow: 3px 6px 24px 0px rgba(0, 0, 0, 0.52);
+  box-shadow: 3px 6px 24px 0px rgba(0, 0, 0, 0.52);
+}
+
+.menu-table .table {
+  margin-bottom: 0px;
+}
+
+.menu-table td {
+  border: 1px solid #e4e4e4;
+  padding: 30px 0;
+}
+
+.menu-table .table-header {
+  padding: 0.75rem;
+}
+
+.lunch button {
+  padding: 15px 20px;
+  background-color: #f35b43;
+  border: 1px solid #e4e4e4;
+  color: #fff;
+}
+
+.lunch button:hover {
+  background-color: #f35b43;
+  border: 1px solid #fff;
+  font-weight: bold;
 }
 
 /* Extra small devices (phones, less than 768px) */
