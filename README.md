@@ -13,12 +13,12 @@ This project was made essentially using bootstrap, but there are also some parts
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/emasdev/html-capstone/afb8ea84e50c3a135733f6c192473e816fadab57/index.html)
+[Live Demo Link](https://rawcdn.githack.com/emasdev/html-capstone/d3d2b449484edac51178cf133c0842c504e6fbd5/index.html)
 
 👤 **Emanuel González**
 
-- Github: [@githubhandle](https://github.com/emasdev)
-- Linkedin: [linkedin](https://linkedin.com/emasdev)
+- Github: [@emasdev](https://github.com/emasdev)
+- Linkedin: [@linkedin](https://linkedin.com/emasdev)
 
 ## 🤝 Contributing
 
