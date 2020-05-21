@@ -415,6 +415,13 @@ footer {
 @media (max-width: 768px) {
   .tickets-cloud {
     flex-direction: column;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .tickets {
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .tickets-cloud .step {
