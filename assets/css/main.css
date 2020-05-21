@@ -420,8 +420,8 @@ footer {
   }
 
   .tickets {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 
   .tickets-cloud .step {
@@ -432,6 +432,16 @@ footer {
 
   .tickets-cloud .step-desc {
     text-align: center;
+  }
+
+  .lunch {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .menu-table {
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
